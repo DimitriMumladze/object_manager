@@ -121,11 +121,3 @@ flutter run
 | `equatable` | Value equality for states and events |
 | `shared_preferences` | Local persistence for theme and credentials |
 
-## What I'd Improve With More Time
-
-- Offline caching with Hive or Drift
-- Comprehensive unit, widget, and integration tests
-- Pagination support for large datasets
-- CI/CD pipeline with GitHub Actions
-- Localization (Georgian + English)
-- Custom backend (ASP.NET Core) deployed on VPS
